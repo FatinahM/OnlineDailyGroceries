@@ -1,4 +1,4 @@
-package com.rajendra.onlinedailygroceries;
+package com.senirocap.bctigercloset;
 
 import android.content.Context;
 
